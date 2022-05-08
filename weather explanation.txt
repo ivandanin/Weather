@@ -1,0 +1,21 @@
+Entities:
+    1. City
+        - name;
+        - country;
+    2. Forecast
+        - max t; // Celsius
+        - min t; // Celsius
+        - pressure; // hPa
+        - humidity; // %
+        - precipitation; // %
+        - wind speed; // km/h
+        - date;
+        - weather (enum);
+    3. User
+        - name;
+        - mail;
+        - password;
+    4. User role
+        - id;
+        - role (enum);
+

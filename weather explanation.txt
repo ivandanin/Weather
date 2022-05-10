@@ -1,7 +1,8 @@
 Entities:
     1. City
         - name;
-        - country;
+        - country; // https://countriesnow.space/api/v0.1/countries (API)
+            from https://documenter.getpostman.com/view/1134062/T1LJjU52?version=latest
     2. Forecast
         - max t; // Celsius
         - min t; // Celsius
